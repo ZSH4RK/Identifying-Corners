@@ -1,0 +1,449 @@
+{
+ "albert_park": {
+  "theta": -0.0,
+  "dx": 206,
+  "dy": 424,
+  "confidence": "medium",
+  "source": "roads",
+  "seasons": [
+   2019,
+   2022,
+   2024,
+   2025,
+   2026
+  ]
+ },
+ "americas": {
+  "theta": 0.1,
+  "dx": 687,
+  "dy": 226,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2019,
+   2021,
+   2022,
+   2024,
+   2025
+  ]
+ },
+ "bahrain": {
+  "theta": -0.1,
+  "dx": 364,
+  "dy": -111,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2019,
+   2020,
+   2021,
+   2022,
+   2024,
+   2025
+  ],
+  "by_season": {
+   "2020": {
+    "theta": 0.2,
+    "dx": 379,
+    "dy": -113
+   }
+  }
+ },
+ "baku": {
+  "theta": -0.0,
+  "dx": -877,
+  "dy": -340,
+  "confidence": "medium",
+  "source": "roads",
+  "seasons": [
+   2019,
+   2021,
+   2022,
+   2024,
+   2025
+  ]
+ },
+ "catalunya": {
+  "theta": 0.0,
+  "dx": -269,
+  "dy": -61,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2019,
+   2020,
+   2021,
+   2022,
+   2024,
+   2025,
+   2026
+  ]
+ },
+ "hockenheimring": {
+  "theta": -0.0,
+  "dx": 616,
+  "dy": 212,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2019
+  ]
+ },
+ "hungaroring": {
+  "theta": 0.0,
+  "dx": 71,
+  "dy": 452,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2019,
+   2020,
+   2021,
+   2022,
+   2024,
+   2025,
+   2026
+  ]
+ },
+ "imola": {
+  "theta": 0.0,
+  "dx": -231,
+  "dy": -357,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2020,
+   2021,
+   2022,
+   2024,
+   2025
+  ]
+ },
+ "interlagos": {
+  "theta": 0.3,
+  "dx": 238,
+  "dy": 210,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2019,
+   2021,
+   2022,
+   2024,
+   2025
+  ]
+ },
+ "istanbul": {
+  "theta": -0.1,
+  "dx": 292,
+  "dy": 614,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2020,
+   2021
+  ]
+ },
+ "jeddah": {
+  "theta": 0.0,
+  "dx": -73,
+  "dy": 646,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2021,
+   2022,
+   2024,
+   2025
+  ]
+ },
+ "losail": {
+  "theta": -0.0,
+  "dx": -44,
+  "dy": 53,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2021,
+   2024,
+   2025
+  ]
+ },
+ "madring": {
+  "theta": -0.1,
+  "dx": -283,
+  "dy": 800,
+  "confidence": "medium",
+  "source": "roads",
+  "seasons": [
+   2026
+  ]
+ },
+ "marina_bay": {
+  "theta": 0.5,
+  "dx": -668,
+  "dy": -76,
+  "confidence": "medium",
+  "source": "roads",
+  "seasons": [
+   2019,
+   2022,
+   2024,
+   2025
+  ]
+ },
+ "miami": {
+  "theta": -0.1,
+  "dx": 160,
+  "dy": -19,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2022,
+   2024,
+   2025,
+   2026
+  ]
+ },
+ "monaco": {
+  "theta": 0.1,
+  "dx": 428,
+  "dy": 218,
+  "confidence": "medium",
+  "source": "roads",
+  "seasons": [
+   2019,
+   2021,
+   2022,
+   2024,
+   2025,
+   2026
+  ]
+ },
+ "monza": {
+  "theta": 0.0,
+  "dx": 594,
+  "dy": 669,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2019,
+   2020,
+   2021,
+   2022,
+   2024,
+   2025,
+   2026
+  ]
+ },
+ "mugello": {
+  "theta": -0.1,
+  "dx": -28,
+  "dy": -11,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2020
+  ]
+ },
+ "nurburgring": {
+  "theta": -0.0,
+  "dx": -402,
+  "dy": -520,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2020
+  ]
+ },
+ "portimao": {
+  "theta": 0.2,
+  "dx": -135,
+  "dy": 474,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2020,
+   2021
+  ]
+ },
+ "red_bull_ring": {
+  "theta": -0.0,
+  "dx": -178,
+  "dy": 350,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2019,
+   2020,
+   2021,
+   2022,
+   2024,
+   2025,
+   2026
+  ]
+ },
+ "ricard": {
+  "theta": -0.1,
+  "dx": -66,
+  "dy": 242,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2019,
+   2021,
+   2022
+  ]
+ },
+ "rodriguez": {
+  "theta": -0.0,
+  "dx": 79,
+  "dy": -274,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2019,
+   2021,
+   2022,
+   2024,
+   2025
+  ]
+ },
+ "shanghai": {
+  "theta": 0.0,
+  "dx": 133,
+  "dy": 189,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2019,
+   2024,
+   2025,
+   2026
+  ]
+ },
+ "silverstone": {
+  "theta": 0.2,
+  "dx": 38,
+  "dy": -817,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2019,
+   2020,
+   2021,
+   2022,
+   2024,
+   2025,
+   2026
+  ]
+ },
+ "sochi": {
+  "theta": 0.1,
+  "dx": 76,
+  "dy": 192,
+  "confidence": "low",
+  "source": "raceway",
+  "seasons": [
+   2019,
+   2020,
+   2021
+  ]
+ },
+ "spa": {
+  "theta": -0.1,
+  "dx": -173,
+  "dy": -37,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2019,
+   2020,
+   2021,
+   2022,
+   2024,
+   2025,
+   2026
+  ]
+ },
+ "suzuka": {
+  "theta": 0.0,
+  "dx": -761,
+  "dy": 53,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2019,
+   2022,
+   2024,
+   2025,
+   2026
+  ]
+ },
+ "vegas": {
+  "theta": 0.2,
+  "dx": 572,
+  "dy": 231,
+  "confidence": "medium",
+  "source": "roads",
+  "seasons": [
+   2024,
+   2025
+  ]
+ },
+ "villeneuve": {
+  "theta": -0.0,
+  "dx": -251,
+  "dy": 628,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2019,
+   2022,
+   2024,
+   2025,
+   2026
+  ]
+ },
+ "yas_marina": {
+  "theta": -0.0,
+  "dx": 251,
+  "dy": 402,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2019,
+   2020,
+   2021,
+   2022,
+   2024,
+   2025
+  ],
+  "by_season": {
+   "2019": {
+    "theta": -0.0,
+    "dx": 258,
+    "dy": 416
+   },
+   "2020": {
+    "theta": -0.1,
+    "dx": 264,
+    "dy": 415
+   }
+  }
+ },
+ "zandvoort": {
+  "theta": 0.1,
+  "dx": 340,
+  "dy": -77,
+  "confidence": "high",
+  "source": "raceway",
+  "seasons": [
+   2021,
+   2022,
+   2024,
+   2025,
+   2026
+  ]
+ }
+}

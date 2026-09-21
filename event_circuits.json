@@ -1,0 +1,767 @@
+{
+"2019-1": {
+"circuitId": "albert_park",
+"lat": -37.8497,
+"long": 144.968
+},
+"2019-2": {
+"circuitId": "bahrain",
+"lat": 26.0325,
+"long": 50.5106
+},
+"2019-3": {
+"circuitId": "shanghai",
+"lat": 31.3389,
+"long": 121.22
+},
+"2019-4": {
+"circuitId": "baku",
+"lat": 40.3725,
+"long": 49.8533
+},
+"2019-5": {
+"circuitId": "catalunya",
+"lat": 41.57,
+"long": 2.26111
+},
+"2019-6": {
+"circuitId": "monaco",
+"lat": 43.7347,
+"long": 7.42056
+},
+"2019-7": {
+"circuitId": "villeneuve",
+"lat": 45.5,
+"long": -73.5228
+},
+"2019-8": {
+"circuitId": "ricard",
+"lat": 43.2506,
+"long": 5.79167
+},
+"2019-9": {
+"circuitId": "red_bull_ring",
+"lat": 47.2197,
+"long": 14.7647
+},
+"2019-10": {
+"circuitId": "silverstone",
+"lat": 52.0786,
+"long": -1.01694
+},
+"2019-11": {
+"circuitId": "hockenheimring",
+"lat": 49.3278,
+"long": 8.56583
+},
+"2019-12": {
+"circuitId": "hungaroring",
+"lat": 47.5789,
+"long": 19.2486
+},
+"2019-13": {
+"circuitId": "spa",
+"lat": 50.4372,
+"long": 5.97139
+},
+"2019-14": {
+"circuitId": "monza",
+"lat": 45.6156,
+"long": 9.28111
+},
+"2019-15": {
+"circuitId": "marina_bay",
+"lat": 1.2914,
+"long": 103.864
+},
+"2019-16": {
+"circuitId": "sochi",
+"lat": 43.4057,
+"long": 39.9578
+},
+"2019-17": {
+"circuitId": "suzuka",
+"lat": 34.8431,
+"long": 136.541
+},
+"2019-18": {
+"circuitId": "rodriguez",
+"lat": 19.4042,
+"long": -99.0907
+},
+"2019-19": {
+"circuitId": "americas",
+"lat": 30.1328,
+"long": -97.6411
+},
+"2019-20": {
+"circuitId": "interlagos",
+"lat": -23.7036,
+"long": -46.6997
+},
+"2019-21": {
+"circuitId": "yas_marina",
+"lat": 24.4672,
+"long": 54.6031
+},
+"2020-1": {
+"circuitId": "red_bull_ring",
+"lat": 47.2197,
+"long": 14.7647
+},
+"2020-2": {
+"circuitId": "red_bull_ring",
+"lat": 47.2197,
+"long": 14.7647
+},
+"2020-3": {
+"circuitId": "hungaroring",
+"lat": 47.5789,
+"long": 19.2486
+},
+"2020-4": {
+"circuitId": "silverstone",
+"lat": 52.0786,
+"long": -1.01694
+},
+"2020-5": {
+"circuitId": "silverstone",
+"lat": 52.0786,
+"long": -1.01694
+},
+"2020-6": {
+"circuitId": "catalunya",
+"lat": 41.57,
+"long": 2.26111
+},
+"2020-7": {
+"circuitId": "spa",
+"lat": 50.4372,
+"long": 5.97139
+},
+"2020-8": {
+"circuitId": "monza",
+"lat": 45.6156,
+"long": 9.28111
+},
+"2020-9": {
+"circuitId": "mugello",
+"lat": 43.9975,
+"long": 11.3719
+},
+"2020-10": {
+"circuitId": "sochi",
+"lat": 43.4057,
+"long": 39.9578
+},
+"2020-11": {
+"circuitId": "nurburgring",
+"lat": 50.3356,
+"long": 6.9475
+},
+"2020-12": {
+"circuitId": "portimao",
+"lat": 37.227,
+"long": -8.6267
+},
+"2020-13": {
+"circuitId": "imola",
+"lat": 44.3439,
+"long": 11.7167
+},
+"2020-14": {
+"circuitId": "istanbul",
+"lat": 40.9517,
+"long": 29.405
+},
+"2020-15": {
+"circuitId": "bahrain",
+"lat": 26.0325,
+"long": 50.5106
+},
+"2020-16": {
+"circuitId": "bahrain",
+"lat": 26.0325,
+"long": 50.5106
+},
+"2020-17": {
+"circuitId": "yas_marina",
+"lat": 24.4672,
+"long": 54.6031
+},
+"2021-1": {
+"circuitId": "bahrain",
+"lat": 26.0325,
+"long": 50.5106
+},
+"2021-2": {
+"circuitId": "imola",
+"lat": 44.3439,
+"long": 11.7167
+},
+"2021-3": {
+"circuitId": "portimao",
+"lat": 37.227,
+"long": -8.6267
+},
+"2021-4": {
+"circuitId": "catalunya",
+"lat": 41.57,
+"long": 2.26111
+},
+"2021-5": {
+"circuitId": "monaco",
+"lat": 43.7347,
+"long": 7.42056
+},
+"2021-6": {
+"circuitId": "baku",
+"lat": 40.3725,
+"long": 49.8533
+},
+"2021-7": {
+"circuitId": "ricard",
+"lat": 43.2506,
+"long": 5.79167
+},
+"2021-8": {
+"circuitId": "red_bull_ring",
+"lat": 47.2197,
+"long": 14.7647
+},
+"2021-9": {
+"circuitId": "red_bull_ring",
+"lat": 47.2197,
+"long": 14.7647
+},
+"2021-10": {
+"circuitId": "silverstone",
+"lat": 52.0786,
+"long": -1.01694
+},
+"2021-11": {
+"circuitId": "hungaroring",
+"lat": 47.5789,
+"long": 19.2486
+},
+"2021-12": {
+"circuitId": "spa",
+"lat": 50.4372,
+"long": 5.97139
+},
+"2021-13": {
+"circuitId": "zandvoort",
+"lat": 52.3888,
+"long": 4.54092
+},
+"2021-14": {
+"circuitId": "monza",
+"lat": 45.6156,
+"long": 9.28111
+},
+"2021-15": {
+"circuitId": "sochi",
+"lat": 43.4057,
+"long": 39.9578
+},
+"2021-16": {
+"circuitId": "istanbul",
+"lat": 40.9517,
+"long": 29.405
+},
+"2021-17": {
+"circuitId": "americas",
+"lat": 30.1328,
+"long": -97.6411
+},
+"2021-18": {
+"circuitId": "rodriguez",
+"lat": 19.4042,
+"long": -99.0907
+},
+"2021-19": {
+"circuitId": "interlagos",
+"lat": -23.7036,
+"long": -46.6997
+},
+"2021-20": {
+"circuitId": "losail",
+"lat": 25.49,
+"long": 51.4542
+},
+"2021-21": {
+"circuitId": "jeddah",
+"lat": 21.6319,
+"long": 39.1044
+},
+"2021-22": {
+"circuitId": "yas_marina",
+"lat": 24.4672,
+"long": 54.6031
+},
+"2022-1": {
+"circuitId": "bahrain",
+"lat": 26.0325,
+"long": 50.5106
+},
+"2022-2": {
+"circuitId": "jeddah",
+"lat": 21.6319,
+"long": 39.1044
+},
+"2022-3": {
+"circuitId": "albert_park",
+"lat": -37.8497,
+"long": 144.968
+},
+"2022-4": {
+"circuitId": "imola",
+"lat": 44.3439,
+"long": 11.7167
+},
+"2022-5": {
+"circuitId": "miami",
+"lat": 25.9581,
+"long": -80.2389
+},
+"2022-6": {
+"circuitId": "catalunya",
+"lat": 41.57,
+"long": 2.26111
+},
+"2022-7": {
+"circuitId": "monaco",
+"lat": 43.7347,
+"long": 7.42056
+},
+"2022-8": {
+"circuitId": "baku",
+"lat": 40.3725,
+"long": 49.8533
+},
+"2022-9": {
+"circuitId": "villeneuve",
+"lat": 45.5,
+"long": -73.5228
+},
+"2022-10": {
+"circuitId": "silverstone",
+"lat": 52.0786,
+"long": -1.01694
+},
+"2022-11": {
+"circuitId": "red_bull_ring",
+"lat": 47.2197,
+"long": 14.7647
+},
+"2022-12": {
+"circuitId": "ricard",
+"lat": 43.2506,
+"long": 5.79167
+},
+"2022-13": {
+"circuitId": "hungaroring",
+"lat": 47.5789,
+"long": 19.2486
+},
+"2022-14": {
+"circuitId": "spa",
+"lat": 50.4372,
+"long": 5.97139
+},
+"2022-15": {
+"circuitId": "zandvoort",
+"lat": 52.3888,
+"long": 4.54092
+},
+"2022-16": {
+"circuitId": "monza",
+"lat": 45.6156,
+"long": 9.28111
+},
+"2022-17": {
+"circuitId": "marina_bay",
+"lat": 1.2914,
+"long": 103.864
+},
+"2022-18": {
+"circuitId": "suzuka",
+"lat": 34.8431,
+"long": 136.541
+},
+"2022-19": {
+"circuitId": "americas",
+"lat": 30.1328,
+"long": -97.6411
+},
+"2022-20": {
+"circuitId": "rodriguez",
+"lat": 19.4042,
+"long": -99.0907
+},
+"2022-21": {
+"circuitId": "interlagos",
+"lat": -23.7036,
+"long": -46.6997
+},
+"2022-22": {
+"circuitId": "yas_marina",
+"lat": 24.4672,
+"long": 54.6031
+},
+"2024-1": {
+"circuitId": "bahrain",
+"lat": 26.0325,
+"long": 50.5106
+},
+"2024-2": {
+"circuitId": "jeddah",
+"lat": 21.6319,
+"long": 39.1044
+},
+"2024-3": {
+"circuitId": "albert_park",
+"lat": -37.8497,
+"long": 144.968
+},
+"2024-4": {
+"circuitId": "suzuka",
+"lat": 34.8431,
+"long": 136.541
+},
+"2024-5": {
+"circuitId": "shanghai",
+"lat": 31.3389,
+"long": 121.22
+},
+"2024-6": {
+"circuitId": "miami",
+"lat": 25.9581,
+"long": -80.2389
+},
+"2024-7": {
+"circuitId": "imola",
+"lat": 44.3439,
+"long": 11.7167
+},
+"2024-8": {
+"circuitId": "monaco",
+"lat": 43.7347,
+"long": 7.42056
+},
+"2024-9": {
+"circuitId": "villeneuve",
+"lat": 45.5,
+"long": -73.5228
+},
+"2024-10": {
+"circuitId": "catalunya",
+"lat": 41.57,
+"long": 2.26111
+},
+"2024-11": {
+"circuitId": "red_bull_ring",
+"lat": 47.2197,
+"long": 14.7647
+},
+"2024-12": {
+"circuitId": "silverstone",
+"lat": 52.0786,
+"long": -1.01694
+},
+"2024-13": {
+"circuitId": "hungaroring",
+"lat": 47.5789,
+"long": 19.2486
+},
+"2024-14": {
+"circuitId": "spa",
+"lat": 50.4372,
+"long": 5.97139
+},
+"2024-15": {
+"circuitId": "zandvoort",
+"lat": 52.3888,
+"long": 4.54092
+},
+"2024-16": {
+"circuitId": "monza",
+"lat": 45.6156,
+"long": 9.28111
+},
+"2024-17": {
+"circuitId": "baku",
+"lat": 40.3725,
+"long": 49.8533
+},
+"2024-18": {
+"circuitId": "marina_bay",
+"lat": 1.2914,
+"long": 103.864
+},
+"2024-19": {
+"circuitId": "americas",
+"lat": 30.1328,
+"long": -97.6411
+},
+"2024-20": {
+"circuitId": "rodriguez",
+"lat": 19.4042,
+"long": -99.0907
+},
+"2024-21": {
+"circuitId": "interlagos",
+"lat": -23.7036,
+"long": -46.6997
+},
+"2024-22": {
+"circuitId": "vegas",
+"lat": 36.1147,
+"long": -115.173
+},
+"2024-23": {
+"circuitId": "losail",
+"lat": 25.49,
+"long": 51.4542
+},
+"2024-24": {
+"circuitId": "yas_marina",
+"lat": 24.4672,
+"long": 54.6031
+},
+"2025-1": {
+"circuitId": "albert_park",
+"lat": -37.8497,
+"long": 144.968
+},
+"2025-2": {
+"circuitId": "shanghai",
+"lat": 31.3389,
+"long": 121.22
+},
+"2025-3": {
+"circuitId": "suzuka",
+"lat": 34.8431,
+"long": 136.541
+},
+"2025-4": {
+"circuitId": "bahrain",
+"lat": 26.0325,
+"long": 50.5106
+},
+"2025-5": {
+"circuitId": "jeddah",
+"lat": 21.6319,
+"long": 39.1044
+},
+"2025-6": {
+"circuitId": "miami",
+"lat": 25.9581,
+"long": -80.2389
+},
+"2025-7": {
+"circuitId": "imola",
+"lat": 44.3439,
+"long": 11.7167
+},
+"2025-8": {
+"circuitId": "monaco",
+"lat": 43.7347,
+"long": 7.42056
+},
+"2025-9": {
+"circuitId": "catalunya",
+"lat": 41.57,
+"long": 2.26111
+},
+"2025-10": {
+"circuitId": "villeneuve",
+"lat": 45.5,
+"long": -73.5228
+},
+"2025-11": {
+"circuitId": "red_bull_ring",
+"lat": 47.2197,
+"long": 14.7647
+},
+"2025-12": {
+"circuitId": "silverstone",
+"lat": 52.0786,
+"long": -1.01694
+},
+"2025-13": {
+"circuitId": "spa",
+"lat": 50.4372,
+"long": 5.97139
+},
+"2025-14": {
+"circuitId": "hungaroring",
+"lat": 47.5789,
+"long": 19.2486
+},
+"2025-15": {
+"circuitId": "zandvoort",
+"lat": 52.3888,
+"long": 4.54092
+},
+"2025-16": {
+"circuitId": "monza",
+"lat": 45.6156,
+"long": 9.28111
+},
+"2025-17": {
+"circuitId": "baku",
+"lat": 40.3725,
+"long": 49.8533
+},
+"2025-18": {
+"circuitId": "marina_bay",
+"lat": 1.2914,
+"long": 103.864
+},
+"2025-19": {
+"circuitId": "americas",
+"lat": 30.1328,
+"long": -97.6411
+},
+"2025-20": {
+"circuitId": "rodriguez",
+"lat": 19.4042,
+"long": -99.0907
+},
+"2025-21": {
+"circuitId": "interlagos",
+"lat": -23.7036,
+"long": -46.6997
+},
+"2025-22": {
+"circuitId": "vegas",
+"lat": 36.1147,
+"long": -115.173
+},
+"2025-23": {
+"circuitId": "losail",
+"lat": 25.49,
+"long": 51.4542
+},
+"2025-24": {
+"circuitId": "yas_marina",
+"lat": 24.4672,
+"long": 54.6031
+},
+"2026-1": {
+"circuitId": "albert_park",
+"lat": -37.8497,
+"long": 144.968
+},
+"2026-2": {
+"circuitId": "shanghai",
+"lat": 31.3389,
+"long": 121.22
+},
+"2026-3": {
+"circuitId": "suzuka",
+"lat": 34.8431,
+"long": 136.541
+},
+"2026-4": {
+"circuitId": "miami",
+"lat": 25.9581,
+"long": -80.2389
+},
+"2026-5": {
+"circuitId": "villeneuve",
+"lat": 45.5,
+"long": -73.5228
+},
+"2026-6": {
+"circuitId": "monaco",
+"lat": 43.7347,
+"long": 7.42056
+},
+"2026-7": {
+"circuitId": "catalunya",
+"lat": 41.57,
+"long": 2.26111
+},
+"2026-8": {
+"circuitId": "red_bull_ring",
+"lat": 47.2197,
+"long": 14.7647
+},
+"2026-9": {
+"circuitId": "silverstone",
+"lat": 52.0786,
+"long": -1.01694
+},
+"2026-10": {
+"circuitId": "spa",
+"lat": 50.4372,
+"long": 5.97139
+},
+"2026-11": {
+"circuitId": "hungaroring",
+"lat": 47.5789,
+"long": 19.2486
+},
+"2026-12": {
+"circuitId": "zandvoort",
+"lat": 52.3888,
+"long": 4.54092
+},
+"2026-13": {
+"circuitId": "monza",
+"lat": 45.6156,
+"long": 9.28111
+},
+"2026-14": {
+"circuitId": "madring",
+"lat": 40.46528,
+"long": -3.61528
+},
+"2026-15": {
+"circuitId": "baku",
+"lat": 40.3725,
+"long": 49.8533
+},
+"2026-16": {
+"circuitId": "sepang",
+"lat": 2.76083,
+"long": 101.738
+},
+"2026-17": {
+"circuitId": "marina_bay",
+"lat": 1.2914,
+"long": 103.864
+},
+"2026-18": {
+"circuitId": "americas",
+"lat": 30.1328,
+"long": -97.6411
+},
+"2026-19": {
+"circuitId": "rodriguez",
+"lat": 19.4042,
+"long": -99.0907
+},
+"2026-20": {
+"circuitId": "interlagos",
+"lat": -23.7036,
+"long": -46.6997
+},
+"2026-21": {
+"circuitId": "vegas",
+"lat": 36.1147,
+"long": -115.173
+},
+"2026-22": {
+"circuitId": "losail",
+"lat": 25.49,
+"long": 51.4542
+},
+"2026-23": {
+"circuitId": "yas_marina",
+"lat": 24.4672,
+"long": 54.6031
+}
+}
